@@ -1,0 +1,958 @@
+tag,label
+bike repair,bike_repair
+puncture repair,puncture_repair
+mobile repair,mobile_repair
+laptop repair,laptop_repair
+tv repair,tv_repair
+fridge repair,fridge_repair
+washing machine repair,washing_machine_repair
+electrician service,electrician
+plumber,plumber
+car mechanic,car_mechanic
+ac repair,ac_repair
+geyser repair,geyser_repair
+inverter repair,inverter_repair
+fan repair,fan_repair
+grocery store,grocery_store
+vegetable shop,vegetable_shop
+fruit shop,fruit_shop
+medical store,medical_store
+chemist shop,chemist_shop
+stationery shop,stationery_shop
+flower shop,flower_shop
+bakery,bakery
+sweet shop,sweet_shop
+meat shop,meat_shop
+pet store,pet_store
+clothing store,clothing_store
+mobile accessories,mobile_accessories
+home cleaning,home_cleaning
+maid service,maid_service
+cook service,cook_service
+water tank cleaning,water_tank_cleaning
+pest control,pest_control
+sofa cleaning,sofa_cleaning
+carpet cleaning,carpet_cleaning
+beauty parlour,beauty_parlour
+salon,salon
+spa,spa
+massage center,massage_center
+bridal makeup,bridal_makeup
+men's grooming,mens_grooming
+tuition center,tuition_center
+home tutor,home_tutor
+computer classes,computer_classes
+dance class,dance_class
+music class,music_class
+courier service,courier_service
+packers and movers,packers_movers
+tempo service,tempo_service
+pickup and drop service,pickup_drop_service
+carpenter,carpenter
+painter,painter
+welder,welder
+cctv technician,cctv_technician
+driver on hire,driver_on_hire
+gardener,gardener
+plant nursery,plant_nursery
+dog trainer,dog_trainer
+vet clinic,vet_clinic
+ambulance,ambulance
+fire service,fire_service
+police station,police_station
+photocopy shop,photocopy_shop
+internet cafe,internet_cafe
+key maker,key_maker
+tailor,tailor
+laundry service,laundry_service
+dry cleaner,dry_cleaner
+cobbler,cobbler
+Kirana (general store),Kirana (general store)
+Fruits,Fruits
+Vegetables,Vegetables
+Dairy products,Dairy products
+Milk,Milk
+Eggs,Eggs
+Bread,Bread
+Flour (atta),Flour (atta)
+Rice,Rice
+Pulses,Pulses
+Cooking oil,Cooking oil
+Spices,Spices
+Sugar,Sugar
+Tea,Tea
+Coffee,Coffee
+Biscuits,Biscuits
+Pickles,Pickles
+Snacks,Snacks
+Aqua,Aqua
+Frozen food,Frozen food
+Bakery,Bakery
+Sweets (mithai),Sweets (mithai)
+Ice cream,Ice cream
+Dry fruits,Dry fruits
+Baby food,Baby food
+Chocolates,Chocolates
+Soft drinks,Soft drinks
+Packaged juices,Packaged juices
+Organic groceries,Organic groceries
+Masala powders,Masala powders
+Ready-to-eat food,Ready-to-eat food
+Ghee,Ghee
+Honey,Honey
+Detergent bar,Detergent bar
+Soap,Soap
+Incense sticks,Incense sticks
+Sanitary pads,Sanitary pads
+Mosquito repellents,Mosquito repellents
+Hair oil,Hair oil
+Perfume,Perfume
+Room freshener,Room freshener
+Toilet cleaner,Toilet cleaner
+Floor cleaner,Floor cleaner
+Electrician,Electrician
+Plumber,Plumber
+Carpenter,Carpenter
+Painter,Painter
+AC repair,AC repair
+Refrigerator repair,Refrigerator repair
+Washing machine repair,Washing machine repair
+RO service,RO service
+Mobile repair,Mobile repair
+Laptop repair,Laptop repair
+TV repair,TV repair
+Fan repair,Fan repair
+Water motor repair,Water motor repair
+Inverter service,Inverter service
+Generator repair,Generator repair
+CCTV technician,CCTV technician
+Solar panel repair,Solar panel repair
+Furniture,Furniture
+Gas service,Gas service
+Water purifier installation,Water purifier installation
+DTH service,DTH service
+Borewell,Borewell
+Plumber,Plumber
+Cab,Cab
+Courier service,Courier service
+Goods tempo,Goods tempo
+Two-wheeler transport,Two-wheeler transport
+Car transport,Car transport
+transport,transport
+Pickup van,Pickup van
+Intercity courier,Intercity courier
+Movers & packers,Movers & packers
+Local delivery boy,Local delivery boy
+Laundry pickup,Laundry pickup
+Gas cylinder delivery,Gas cylinder delivery
+Drinking water delivery,Drinking water delivery
+Tiffin delivery,Tiffin delivery
+Flower delivery,Flower delivery
+Grocery delivery,Grocery delivery
+Medicine delivery,Medicine delivery
+Tailor (men),Tailor (men)
+Tailor (women),Tailor (women)
+Boutique,Boutique
+Readymade garments,Readymade garments
+Uniform stitching,Uniform stitching
+Blouse stitching,Blouse stitching
+Dry cleaning,Dry cleaning
+Laundry,Laundry
+Curtain stitching,Curtain stitching
+Saree rolling,Saree rolling
+Suit stitching,Suit stitching
+Uniform supplier,Uniform supplier
+T-shirt printing,T-shirt printing
+Hand embroidery,Hand embroidery
+Fabric store,Fabric store
+Hosiery shop,Hosiery shop
+Tailor for kids,Tailor for kids
+Medical store,Medical store
+Doctor clinic,Doctor clinic
+Dentist,Dentist
+Physiotherapist,Physiotherapist
+Eye specialist,Eye specialist
+Blood test lab,Blood test lab
+Home nurse,Home nurse
+First aid shop,First aid shop
+Ayurvedic shop,Ayurvedic shop
+Homoeopathy doctor,Homoeopathy doctor
+Allopathy doctor,Allopathy doctor
+Health supplements,Health supplements
+Sanitary napkins,Sanitary napkins
+Pregnancy kit,Pregnancy kit
+Personal trainer,Personal trainer
+Fitness equipment repair,Fitness equipment repair
+Eye glass repair,Eye glass repair
+Surgical items shop,Surgical items shop
+Pest control,Pest control
+Water tank cleaning,Water tank cleaning
+Drainage cleaning,Drainage cleaning
+Pressure wash service,Pressure wash service
+Chimney cleaning,Chimney cleaning
+Maid services,Maid services
+Cook services,Cook services
+Babysitter,Babysitter
+Elderly care,Elderly care
+Pet care,Pet care
+Garden cleaning,Garden cleaning
+Garbage pickup,Garbage pickup
+Septic tank cleaning,Septic tank cleaning
+Fan dusting,Fan dusting
+Balcony cleaning,Balcony cleaning
+Gutter cleaning,Gutter cleaning
+Tuition classes,Tuition classes
+Coaching classes,Coaching classes
+Dance class,Dance class
+Music class,Music class
+Yoga class,Yoga class
+Drawing class,Drawing class
+Spoken English,Spoken English
+Computer class,Computer class
+Driving school,Driving school
+Art class,Art class
+Tailoring class,Tailoring class
+Typing class,Typing class
+Abacus,Abacus
+Home tutor,Home tutor
+Math class,Math class
+Science tutor,Science tutor
+Exam coaching,Exam coaching
+IAS coaching,IAS coaching
+Language tutor,Language tutor
+Competitive exam tutor,Competitive exam tutor
+Online class setup,Online class setup
+Vedic maths,Vedic maths
+Digital marketing,Digital marketing
+Guitar class,Guitar class
+Instrument repair class,Instrument repair class
+Bike repair,Bike repair
+Car mechanic,Car mechanic
+Tyre puncture,Tyre puncture
+Oil change,Oil change
+Battery shop,Battery shop
+Engine oil,Engine oil
+Spare parts,Spare parts
+Bike wash,Bike wash
+Car wash,Car wash
+Helmet store,Helmet store
+Vehicle insurance agent,Vehicle insurance agent
+PUC center,PUC center
+RTO agent,RTO agent
+Car accessories,Car accessories
+GPS tracker,GPS tracker
+Towing service,Towing service
+Number plate shop,Number plate shop
+Bike chain repair,Bike chain repair
+Seat cover stitching,Seat cover stitching
+Auto electrician,Auto electrician
+Scooter service,Scooter service
+Air pump,Air pump
+Tyre shop,Tyre shop
+Bike rental,Bike rental
+Car rental,Car rental
+Car AC repair,Car AC repair
+Denting painting,Denting painting
+Fuel delivery,Fuel delivery
+Self-drive cars,Self-drive cars
+Custom horn fitting,Custom horn fitting
+Hardware store,Hardware store
+Cement shop,Cement shop
+Paint store,Paint store
+Sanitary store,Sanitary store
+Electrical shop,Electrical shop
+LED light shop,LED light shop
+Tools shop,Tools shop
+Cycle shop,Cycle shop
+Toy store,Toy store
+Mobile recharge,Mobile recharge
+Mobile accessories,Mobile accessories
+SIM card shop,SIM card shop
+Phone screen guard,Phone screen guard
+Gift shop,Gift shop
+Watch repair,Watch repair
+Spectacles store,Spectacles store
+Book store,Book store
+Stationery,Stationery
+Photocopy shop,Photocopy shop
+Lamination,Lamination
+Printing,Printing
+Trophies,Trophies
+Clock repair,Clock repair
+Photo frame shop,Photo frame shop
+Jewelry store,Jewelry store
+Artificial jewelry,Artificial jewelry
+Mehendi artist,Mehendi artist
+Cosmetic store,Cosmetic store
+Pet shop,Pet shop
+Aquarium store,Aquarium store
+Plant nursery,Plant nursery
+Agri input shop,Agri input shop
+Seeds shop,Seeds shop
+Fertilizer store,Fertilizer store
+Pesticide store,Pesticide store
+Cooking gas agency,Cooking gas agency
+Hardware tools,Hardware tools
+Paint brushes,Paint brushes
+Utensils shop,Utensils shop
+Crockery shop,Crockery shop
+Mattress store,Mattress store
+Curtain shop,Curtain shop
+Furniture shop,Furniture shop
+Fan shop,Fan shop
+Inverter shop,Inverter shop
+Solar light store,Solar light store
+Kitchenware store,Kitchenware store
+Sticker printing,Sticker printing
+Temple items store,Temple items store
+Tiffin service,Tiffin service
+Tea shop,Tea shop
+Coffee shop,Coffee shop
+Juice shop,Juice shop
+Snacks center,Snacks center
+Breakfast stall,Breakfast stall
+Pav bhaji stall,Pav bhaji stall
+Vada pav center,Vada pav center
+Dosa center,Dosa center
+Idli center,Idli center
+Fast food stall,Fast food stall
+Sandwich stall,Sandwich stall
+Chaat center,Chaat center
+Biryani outlet,Biryani outlet
+Veg hotel,Veg hotel
+Non-veg hotel,Non-veg hotel
+Bakery,Bakery
+Cake shop,Cake shop
+Ice gola stall,Ice gola stall
+Juice & shake bar,Juice & shake bar
+Mithai shop,Mithai shop
+Thali center,Thali center
+Canteen,Canteen
+Lunch home,Lunch home
+Dhaba,Dhaba
+Chinese stall,Chinese stall
+South Indian stall,South Indian stall
+Pizza shop,Pizza shop
+Burger shop,Burger shop
+Food parcel service,Food parcel service
+Late-night food,Late-night food
+Fruit salad stall,Fruit salad stall
+Organic food store,Organic food store
+Ready-to-cook meals,Ready-to-cook meals
+Home-cooked meals,Home-cooked meals
+Caterer,Caterer
+Sweets for functions,Sweets for functions
+Birthday cakes,Birthday cakes
+Healthy food box,Healthy food box
+Vegan meals,Vegan meals
+Men’s salon,Men’s salon
+Women’s salon,Women’s salon
+Haircut home service,Haircut home service
+Beautician home visit,Beautician home visit
+Bridal makeup,Bridal makeup
+Hair spa,Hair spa
+Beard styling,Beard styling
+Pedicure,Pedicure
+Manicure,Manicure
+Nail art,Nail art
+Facial,Facial
+Bleach,Bleach
+Eyebrow threading,Eyebrow threading
+Waxing,Waxing
+Hair coloring,Hair coloring
+Henna application,Henna application
+Massage center,Massage center
+Body spa,Body spa
+Body polishing,Body polishing
+Mehendi for events,Mehendi for events
+Temporary tattoos,Temporary tattoos
+Piercing,Piercing
+Hair straightening,Hair straightening
+Makeup classes,Makeup classes
+Hair oil massage,Hair oil massage
+Anti-dandruff treatment,Anti-dandruff treatment
+Anti-hairfall spa,Anti-hairfall spa
+Skin care clinic,Skin care clinic
+DJ service,DJ service
+Wedding decorator,Wedding decorator
+Tent service,Tent service
+Light & sound,Light & sound
+Event manager,Event manager
+Birthday party supplies,Birthday party supplies
+Photographer,Photographer
+Videographer,Videographer
+Anchor/Emcee,Anchor/Emcee
+Catering,Catering
+Cook on rent,Cook on rent
+Bartender service,Bartender service
+Orchestra/Band,Orchestra/Band
+Musical instrument rental,Musical instrument rental
+Stage rental,Stage rental
+Chairs/tables on rent,Chairs/tables on rent
+Crockery on rent,Crockery on rent
+Car decoration,Car decoration
+Bridal mehendi artist,Bridal mehendi artist
+Firecracker store,Firecracker store
+Balloon decorator,Balloon decorator
+Magic show,Magic show
+Kids party planner,Kids party planner
+Selfie booth rental,Selfie booth rental
+Flower decorator,Flower decorator
+Passport photo,Passport photo
+Instant ID card,Instant ID card
+Aadhaar print,Aadhaar print
+PAN card application,PAN card application
+Voter ID help,Voter ID help
+Ration card update,Ration card update
+Mobile bill payment,Mobile bill payment
+Electricity bill payment,Electricity bill payment
+Water bill payment,Water bill payment
+Land record print,Land record print
+Resume print,Resume print
+Online form filling,Online form filling
+Ticket booking,Ticket booking
+Bus booking,Bus booking
+Train ticket agent,Train ticket agent
+Flight ticket help,Flight ticket help
+Xerox,Xerox
+Spiral binding,Spiral binding
+Project report print,Project report print
+Online payment help,Online payment help
+Government scheme help,Government scheme help
+Computer typing help,Computer typing help
+Purohit (Pandit),Purohit (Pandit)
+Astrologer,Astrologer
+Horoscope,Horoscope
+Vastu consultant,Vastu consultant
+Pooja samagri store,Pooja samagri store
+Temple items seller,Temple items seller
+Flower garland shop,Flower garland shop
+Coconut & diya store,Coconut & diya store
+Puja thali vendor,Puja thali vendor
+Agarbatti shop,Agarbatti shop
+Tulsi plant seller,Tulsi plant seller
+Spiritual books,Spiritual books
+Festival setup provider,Festival setup provider
+Mandap decoration,Mandap decoration
+Satyanarayan pooja items,Satyanarayan pooja items
+utensils,utensils
+sari store,sari store
+Seed seller,Seed seller
+Fertilizer store,Fertilizer store
+Pesticide store,Pesticide store
+Spray pump repair,Spray pump repair
+Agriculture pipe seller,Agriculture pipe seller
+Drip irrigation installer,Drip irrigation installer
+Tractor mechanic,Tractor mechanic
+Tractor tyre shop,Tractor tyre shop
+Agri-tool rental,Agri-tool rental
+Soil testing lab,Soil testing lab
+Grain buyer,Grain buyer
+Cow feed seller,Cow feed seller
+Electric fence installer,Electric fence installer
+repair,repair
+Vermicompost seller,Vermicompost seller
+Poultry medicine,Poultry medicine
+Agri loan agent,Agri loan agent
+Water motor supplier,Water motor supplier
+Ambulance contact,Ambulance contact
+Blood Bank,Blood Bank
+Police station contact,Police station contact
+Fire brigade,Fire brigade
+Emergency electrician,Emergency electrician
+24x7 medical store,24x7 medical store
+Gas leak repair,Gas leak repair
+Night-time cab,Night-time cab
+Emergency plumber,Emergency plumber
+Emergency mobile repair,Emergency mobile repair
+Home Services – Missing/Niche,Home Services – Missing/Niche
+Pest control service,Pest control service
+Termite treatment,Termite treatment
+Washing machine repair,Washing machine repair
+Interior designer,Interior designer
+Modular kitchen,Modular kitchen
+Solar panel cleaning,Solar panel cleaning
+Water purifier repair,Water purifier repair
+Furniture polishing,Furniture polishing
+Borewell,Borewell
+Water tanker supply,Water tanker supply
+Bio-fertilizer,Bio-fertilizer
+Farm labor contact,Farm labor contact
+Goat sheep doctor,Goat sheep doctor
+chakki,chakki
+Brick kiln supplier,Brick kiln supplier
+Pond cleaning,Pond cleaning
+Natural manure (gobar) seller,Natural manure (gobar) seller
+Digital marketing,Digital marketing
+E-commerce listing,E-commerce listing
+Graphics designer,Graphics designer
+coding tutor,coding tutor
+website builder,website builder
+Home tuition teacher,Home tuition teacher
+Computer class,Computer class
+Spoken English tutor,Spoken English tutor
+Government job coaching,Government job coaching
+Dance teacher,Dance teacher
+Drawing Art class,Drawing Art class
+Sewing and Embroidery class,Sewing and Embroidery class
+Mobile repairing institute,Mobile repairing institute
+Makeup course provider,Makeup course provider
+Local homestay,Local homestay
+Tour guide,Tour guide
+Local tourist taxi,Local tourist taxi
+Food parcel counter,Food parcel counter
+Bathroom shower point,Bathroom shower point
+Bike on rent,Bike on rent
+Driver on hire,Driver on hire
+Pressure cooker repair,Pressure cooker repair
+Toy seller,Toy seller
+Bike tube patch seller,Bike tube patch seller
+Balloon cycle seller,Balloon cycle seller
+Raincoat umbrella repair,Raincoat umbrella repair
+Sewing thread & needle shop,Sewing thread & needle shop
+Shoes,Shoes
+Kirana (general store),Kirana (general store)
+Fruits,Fruits
+Vegetables,Vegetables
+Dairy products,Dairy products
+Milk,Milk
+Eggs,Eggs
+Bread,Bread
+Flour (atta),Flour (atta)
+Rice,Rice
+Pulses,Pulses
+Cooking oil,Cooking oil
+Spices,Spices
+Sugar,Sugar
+Tea,Tea
+Coffee,Coffee
+Biscuits,Biscuits
+Pickles,Pickles
+Snacks,Snacks
+Aqua,Aqua
+Frozen food,Frozen food
+Bakery,Bakery
+Sweets (mithai),Sweets (mithai)
+Ice cream,Ice cream
+Dry fruits,Dry fruits
+Baby food,Baby food
+Chocolates,Chocolates
+Soft drinks,Soft drinks
+Packaged juices,Packaged juices
+Organic groceries,Organic groceries
+Masala powders,Masala powders
+Ready-to-eat food,Ready-to-eat food
+Ghee,Ghee
+Honey,Honey
+Detergent bar,Detergent bar
+Soap,Soap
+Incense sticks,Incense sticks
+Sanitary pads,Sanitary pads
+Mosquito repellents,Mosquito repellents
+Hair oil,Hair oil
+Perfume,Perfume
+Room freshener,Room freshener
+Toilet cleaner,Toilet cleaner
+Floor cleaner,Floor cleaner
+Electrician,Electrician
+Plumber,Plumber
+Carpenter,Carpenter
+Painter,Painter
+AC repair,AC repair
+Refrigerator repair,Refrigerator repair
+Washing machine repair,Washing machine repair
+RO service,RO service
+Mobile repair,Mobile repair
+Laptop repair,Laptop repair
+TV repair,TV repair
+Fan repair,Fan repair
+Water motor repair,Water motor repair
+Inverter service,Inverter service
+Generator repair,Generator repair
+CCTV technician,CCTV technician
+Solar panel repair,Solar panel repair
+Furniture,Furniture
+Gas service,Gas service
+Water purifier installation,Water purifier installation
+DTH service,DTH service
+Borewell,Borewell
+Plumber,Plumber
+Cab,Cab
+Courier service,Courier service
+Goods tempo,Goods tempo
+Two-wheeler transport,Two-wheeler transport
+Car transport,Car transport
+transport,transport
+Pickup van,Pickup van
+Intercity courier,Intercity courier
+Movers & packers,Movers & packers
+Local delivery boy,Local delivery boy
+Laundry pickup,Laundry pickup
+Gas cylinder delivery,Gas cylinder delivery
+Drinking water delivery,Drinking water delivery
+Tiffin delivery,Tiffin delivery
+Flower delivery,Flower delivery
+Grocery delivery,Grocery delivery
+Medicine delivery,Medicine delivery
+Tailor (men),Tailor (men)
+Tailor (women),Tailor (women)
+Boutique,Boutique
+Readymade garments,Readymade garments
+Uniform stitching,Uniform stitching
+Blouse stitching,Blouse stitching
+Dry cleaning,Dry cleaning
+Laundry,Laundry
+Curtain stitching,Curtain stitching
+Saree rolling,Saree rolling
+Suit stitching,Suit stitching
+Uniform supplier,Uniform supplier
+T-shirt printing,T-shirt printing
+Hand embroidery,Hand embroidery
+Fabric store,Fabric store
+Hosiery shop,Hosiery shop
+Tailor for kids,Tailor for kids
+Medical store,Medical store
+Doctor clinic,Doctor clinic
+Dentist,Dentist
+Physiotherapist,Physiotherapist
+Eye specialist,Eye specialist
+Blood test lab,Blood test lab
+Home nurse,Home nurse
+First aid shop,First aid shop
+Ayurvedic shop,Ayurvedic shop
+Homoeopathy doctor,Homoeopathy doctor
+Allopathy doctor,Allopathy doctor
+Health supplements,Health supplements
+Sanitary napkins,Sanitary napkins
+Pregnancy kit,Pregnancy kit
+Personal trainer,Personal trainer
+Fitness equipment repair,Fitness equipment repair
+Eye glass repair,Eye glass repair
+Surgical items shop,Surgical items shop
+Pest control,Pest control
+Water tank cleaning,Water tank cleaning
+Drainage cleaning,Drainage cleaning
+Pressure wash service,Pressure wash service
+Chimney cleaning,Chimney cleaning
+Maid services,Maid services
+Cook services,Cook services
+Babysitter,Babysitter
+Elderly care,Elderly care
+Pet care,Pet care
+Garden cleaning,Garden cleaning
+Garbage pickup,Garbage pickup
+Septic tank cleaning,Septic tank cleaning
+Fan dusting,Fan dusting
+Balcony cleaning,Balcony cleaning
+Gutter cleaning,Gutter cleaning
+Tuition classes,Tuition classes
+Coaching classes,Coaching classes
+Dance class,Dance class
+Music class,Music class
+Yoga class,Yoga class
+Drawing class,Drawing class
+Spoken English,Spoken English
+Computer class,Computer class
+Driving school,Driving school
+Art class,Art class
+Tailoring class,Tailoring class
+Typing class,Typing class
+Abacus,Abacus
+Home tutor,Home tutor
+Math class,Math class
+Science tutor,Science tutor
+Exam coaching,Exam coaching
+IAS coaching,IAS coaching
+Language tutor,Language tutor
+Competitive exam tutor,Competitive exam tutor
+Online class setup,Online class setup
+Vedic maths,Vedic maths
+Digital marketing,Digital marketing
+Guitar class,Guitar class
+Instrument repair class,Instrument repair class
+Bike repair,Bike repair
+Car mechanic,Car mechanic
+Tyre puncture,Tyre puncture
+Oil change,Oil change
+Battery shop,Battery shop
+Engine oil,Engine oil
+Spare parts,Spare parts
+Bike wash,Bike wash
+Car wash,Car wash
+Helmet store,Helmet store
+Vehicle insurance agent,Vehicle insurance agent
+PUC center,PUC center
+RTO agent,RTO agent
+Car accessories,Car accessories
+GPS tracker,GPS tracker
+Towing service,Towing service
+Number plate shop,Number plate shop
+Bike chain repair,Bike chain repair
+Seat cover stitching,Seat cover stitching
+Auto electrician,Auto electrician
+Scooter service,Scooter service
+Air pump,Air pump
+Tyre shop,Tyre shop
+Bike rental,Bike rental
+Car rental,Car rental
+Car AC repair,Car AC repair
+Denting painting,Denting painting
+Fuel delivery,Fuel delivery
+Self-drive cars,Self-drive cars
+Custom horn fitting,Custom horn fitting
+Hardware store,Hardware store
+Cement shop,Cement shop
+Paint store,Paint store
+Sanitary store,Sanitary store
+Electrical shop,Electrical shop
+LED light shop,LED light shop
+Tools shop,Tools shop
+Cycle shop,Cycle shop
+Toy store,Toy store
+Mobile recharge,Mobile recharge
+Mobile accessories,Mobile accessories
+SIM card shop,SIM card shop
+Phone screen guard,Phone screen guard
+Gift shop,Gift shop
+Watch repair,Watch repair
+Spectacles store,Spectacles store
+Book store,Book store
+Stationery,Stationery
+Photocopy shop,Photocopy shop
+Lamination,Lamination
+Printing,Printing
+Trophies,Trophies
+Clock repair,Clock repair
+Photo frame shop,Photo frame shop
+Jewelry store,Jewelry store
+Artificial jewelry,Artificial jewelry
+Mehendi artist,Mehendi artist
+Cosmetic store,Cosmetic store
+Pet shop,Pet shop
+Aquarium store,Aquarium store
+Plant nursery,Plant nursery
+Agri input shop,Agri input shop
+Seeds shop,Seeds shop
+Fertilizer store,Fertilizer store
+Pesticide store,Pesticide store
+Cooking gas agency,Cooking gas agency
+Hardware tools,Hardware tools
+Paint brushes,Paint brushes
+Utensils shop,Utensils shop
+Crockery shop,Crockery shop
+Mattress store,Mattress store
+Curtain shop,Curtain shop
+Furniture shop,Furniture shop
+Fan shop,Fan shop
+Inverter shop,Inverter shop
+Solar light store,Solar light store
+Kitchenware store,Kitchenware store
+Sticker printing,Sticker printing
+Temple items store,Temple items store
+Tiffin service,Tiffin service
+Tea shop,Tea shop
+Coffee shop,Coffee shop
+Juice shop,Juice shop
+Snacks center,Snacks center
+Breakfast stall,Breakfast stall
+Pav bhaji stall,Pav bhaji stall
+Vada pav center,Vada pav center
+Dosa center,Dosa center
+Idli center,Idli center
+Fast food stall,Fast food stall
+Sandwich stall,Sandwich stall
+Chaat center,Chaat center
+Biryani outlet,Biryani outlet
+Veg hotel,Veg hotel
+Non-veg hotel,Non-veg hotel
+Bakery,Bakery
+Cake shop,Cake shop
+Ice gola stall,Ice gola stall
+Juice & shake bar,Juice & shake bar
+Mithai shop,Mithai shop
+Thali center,Thali center
+Canteen,Canteen
+Lunch home,Lunch home
+Dhaba,Dhaba
+Chinese stall,Chinese stall
+South Indian stall,South Indian stall
+Pizza shop,Pizza shop
+Burger shop,Burger shop
+Food parcel service,Food parcel service
+Late-night food,Late-night food
+Fruit salad stall,Fruit salad stall
+Organic food store,Organic food store
+Ready-to-cook meals,Ready-to-cook meals
+Home-cooked meals,Home-cooked meals
+Caterer,Caterer
+Sweets for functions,Sweets for functions
+Birthday cakes,Birthday cakes
+Healthy food box,Healthy food box
+Vegan meals,Vegan meals
+Men’s salon,Men’s salon
+Women’s salon,Women’s salon
+Haircut home service,Haircut home service
+Beautician home visit,Beautician home visit
+Bridal makeup,Bridal makeup
+Hair spa,Hair spa
+Beard styling,Beard styling
+Pedicure,Pedicure
+Manicure,Manicure
+Nail art,Nail art
+Facial,Facial
+Bleach,Bleach
+Eyebrow threading,Eyebrow threading
+Waxing,Waxing
+Hair coloring,Hair coloring
+Henna application,Henna application
+Massage center,Massage center
+Body spa,Body spa
+Body polishing,Body polishing
+Mehendi for events,Mehendi for events
+Temporary tattoos,Temporary tattoos
+Piercing,Piercing
+Hair straightening,Hair straightening
+Makeup classes,Makeup classes
+Hair oil massage,Hair oil massage
+Anti-dandruff treatment,Anti-dandruff treatment
+Anti-hairfall spa,Anti-hairfall spa
+Skin care clinic,Skin care clinic
+DJ service,DJ service
+Wedding decorator,Wedding decorator
+Tent service,Tent service
+Light & sound,Light & sound
+Event manager,Event manager
+Birthday party supplies,Birthday party supplies
+Photographer,Photographer
+Videographer,Videographer
+Anchor/Emcee,Anchor/Emcee
+Catering,Catering
+Cook on rent,Cook on rent
+Bartender service,Bartender service
+Orchestra/Band,Orchestra/Band
+Musical instrument rental,Musical instrument rental
+Stage rental,Stage rental
+Chairs/tables on rent,Chairs/tables on rent
+Crockery on rent,Crockery on rent
+Car decoration,Car decoration
+Bridal mehendi artist,Bridal mehendi artist
+Firecracker store,Firecracker store
+Balloon decorator,Balloon decorator
+Magic show,Magic show
+Kids party planner,Kids party planner
+Selfie booth rental,Selfie booth rental
+Flower decorator,Flower decorator
+Passport photo,Passport photo
+Instant ID card,Instant ID card
+Aadhaar print,Aadhaar print
+PAN card application,PAN card application
+Voter ID help,Voter ID help
+Ration card update,Ration card update
+Mobile bill payment,Mobile bill payment
+Electricity bill payment,Electricity bill payment
+Water bill payment,Water bill payment
+Land record print,Land record print
+Resume print,Resume print
+Online form filling,Online form filling
+Ticket booking,Ticket booking
+Bus booking,Bus booking
+Train ticket agent,Train ticket agent
+Flight ticket help,Flight ticket help
+Xerox,Xerox
+Spiral binding,Spiral binding
+Project report print,Project report print
+Online payment help,Online payment help
+Government scheme help,Government scheme help
+Computer typing help,Computer typing help
+Purohit (Pandit),Purohit (Pandit)
+Astrologer,Astrologer
+Horoscope,Horoscope
+Vastu consultant,Vastu consultant
+Pooja samagri store,Pooja samagri store
+Temple items seller,Temple items seller
+Flower garland shop,Flower garland shop
+Coconut & diya store,Coconut & diya store
+Puja thali vendor,Puja thali vendor
+Agarbatti shop,Agarbatti shop
+Tulsi plant seller,Tulsi plant seller
+Spiritual books,Spiritual books
+Festival setup provider,Festival setup provider
+Mandap decoration,Mandap decoration
+Satyanarayan pooja items,Satyanarayan pooja items
+utensils,utensils
+sari store,sari store
+Seed seller,Seed seller
+Fertilizer store,Fertilizer store
+Pesticide store,Pesticide store
+Spray pump repair,Spray pump repair
+Agriculture pipe seller,Agriculture pipe seller
+Drip irrigation installer,Drip irrigation installer
+Tractor mechanic,Tractor mechanic
+Tractor tyre shop,Tractor tyre shop
+Agri-tool rental,Agri-tool rental
+Soil testing lab,Soil testing lab
+Grain buyer,Grain buyer
+Cow feed seller,Cow feed seller
+Electric fence installer,Electric fence installer
+repair,repair
+Vermicompost seller,Vermicompost seller
+Poultry medicine,Poultry medicine
+Agri loan agent,Agri loan agent
+Water motor supplier,Water motor supplier
+Ambulance contact,Ambulance contact
+Blood Bank,Blood Bank
+Police station contact,Police station contact
+Fire brigade,Fire brigade
+Emergency electrician,Emergency electrician
+24x7 medical store,24x7 medical store
+Gas leak repair,Gas leak repair
+Night-time cab,Night-time cab
+Emergency plumber,Emergency plumber
+Emergency mobile repair,Emergency mobile repair
+Home Services – Missing/Niche,Home Services – Missing/Niche
+Pest control service,Pest control service
+Termite treatment,Termite treatment
+Washing machine repair,Washing machine repair
+Interior designer,Interior designer
+Modular kitchen,Modular kitchen
+Solar panel cleaning,Solar panel cleaning
+Water purifier repair,Water purifier repair
+Furniture polishing,Furniture polishing
+Borewell,Borewell
+Water tanker supply,Water tanker supply
+Bio-fertilizer,Bio-fertilizer
+Farm labor contact,Farm labor contact
+Goat sheep doctor,Goat sheep doctor
+chakki,chakki
+Brick kiln supplier,Brick kiln supplier
+Pond cleaning,Pond cleaning
+Natural manure (gobar) seller,Natural manure (gobar) seller
+Digital marketing,Digital marketing
+E-commerce listing,E-commerce listing
+Graphics designer,Graphics designer
+coding tutor,coding tutor
+website builder,website builder
+Home tuition teacher,Home tuition teacher
+Computer class,Computer class
+Spoken English tutor,Spoken English tutor
+Government job coaching,Government job coaching
+Dance teacher,Dance teacher
+Drawing Art class,Drawing Art class
+Sewing and Embroidery class,Sewing and Embroidery class
+Mobile repairing institute,Mobile repairing institute
+Makeup course provider,Makeup course provider
+Local homestay,Local homestay
+Tour guide,Tour guide
+Local tourist taxi,Local tourist taxi
+Food parcel counter,Food parcel counter
+Bathroom shower point,Bathroom shower point
+Bike on rent,Bike on rent
+Driver on hire,Driver on hire
+Pressure cooker repair,Pressure cooker repair
+Toy seller,Toy seller
+Bike tube patch seller,Bike tube patch seller
+Balloon cycle seller,Balloon cycle seller
+Raincoat umbrella repair,Raincoat umbrella repair
+Sewing thread & needle shop,Sewing thread & needle shop
+Shoes,Shoes
+Bank, Bank
