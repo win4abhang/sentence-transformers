@@ -3,6 +3,8 @@ from pydantic import BaseModel
 from sentence_transformers import SentenceTransformer, util
 import csv
 
+model = SentenceTransformer("all-MiniLM-L6-v2", cache_folder=".cache")
+
 # Initialize FastAPI app
 app = FastAPI()
 
