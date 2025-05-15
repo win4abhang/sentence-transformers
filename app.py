@@ -52,7 +52,3 @@ def get_intent(input: QueryInput):
         "matched_text": best_match,
         "confidence": round(best_score, 3)
     }
-
-if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 8000))  # Render sets PORT automatically
-    uvicorn.run("app:app", host="0.0.0.0", port=port)
