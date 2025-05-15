@@ -22,6 +22,8 @@ with open(csv_path, newline='', encoding='utf-8') as csvfile:
     for row in reader:
         intent_tags[row['tag']] = row['label']
 
+print("Loaded intent tags:", intent_tags)
+
 # Precompute embeddings for each intent label
 tag_embeddings = {
     tag: model.encode(tag, convert_to_tensor=True)
