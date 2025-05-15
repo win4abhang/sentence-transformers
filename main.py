@@ -2,6 +2,8 @@ from fastapi import FastAPI
 from pydantic import BaseModel
 from sentence_transformers import SentenceTransformer, util
 import csv
+import uvicorn
+import os
 
 model = SentenceTransformer("all-MiniLM-L6-v2", cache_folder=".cache")
 
@@ -13,7 +15,9 @@ model = SentenceTransformer('all-MiniLM-L6-v2')
 
 # Predefined intent tags and labels
 intent_tags = {}
-with open('intent_tags.csv', newline='', encoding='utf-8') as csvfile:
+base_dir = os.path.dirname(__file__)
+csv_path = os.path.join(base_dir, "intent_tags.csv")
+with open(csv_path, newline='', encoding='utf-8') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
         intent_tags[row['tag']] = row['label']
@@ -46,3 +50,6 @@ def get_intent(input: QueryInput):
         "matched_text": best_match,
         "confidence": round(best_score, 3)
     }
+if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 8000))  # Railway injects this
+    uvicorn.run("main:app", host="0.0.0.0", port=port)
