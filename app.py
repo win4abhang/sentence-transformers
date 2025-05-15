@@ -52,4 +52,5 @@ def get_intent(input: QueryInput):
     }
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 10000))
+    print(f"Starting app on port {port}")  # Add this line to check port
     uvicorn.run("app:app", host="0.0.0.0", port=port)

@@ -17,5 +17,5 @@ RUN pip install --upgrade pip && pip install -r requirements.txt
 COPY . .
 
 # Run FastAPI app with uvicorn
-CMD ["sh", "-c", "uvicorn app:app --host 0.0.0.0 --port ${PORT:-8000}"]
+CMD ["python", "app.py"]
 #try this 
