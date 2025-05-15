@@ -5,6 +5,8 @@ import csv
 import uvicorn
 import os
 
+
+print("Wellcome to app")
 model = SentenceTransformer("all-MiniLM-L6-v2", cache_folder=".cache")
 
 # Initialize FastAPI app
@@ -50,3 +52,5 @@ def get_intent(input: QueryInput):
         "matched_text": best_match,
         "confidence": round(best_score, 3)
     }
+
+print("buy to app")
