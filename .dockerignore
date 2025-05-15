@@ -8,6 +8,5 @@ venv/
 .venv/
 .git/
 .gitignore
-*.csv
 *.log
 .cache/
